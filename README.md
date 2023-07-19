@@ -2,7 +2,7 @@
 This repository contains the database and the calibration method related to the study: "A comprehensive guide for measuring total vanadium concentration and state of charge of vanadium electrolytes using UV-Visible spectroscopy"
 
 The spectra are provided raw, in txt format.
-The file name is given as:
+The file name is given as:  
 PL_mm_pl_Xpc_Absorbance_hour-min-second.txt
 Where PL is the path length, can be 0_1mm: 0.1mm or 1_mm: 1mm
 and X is:
