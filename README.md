@@ -6,7 +6,7 @@ The name is given as
 PL_mm_pl_Xpc_Absorbance_hour-min-second.txt
 Where PL is the path length, can be 0_1mm: 0.1mm or 1_mm: 1mm
 and X is: 
-X2 or negative SOC for V2V3
+$X_2$ or negative SOC for V2V3
 X4 or fraction of V4 for V3V4
 X5 or positive SOC for V4V5
 
